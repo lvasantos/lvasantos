@@ -13,9 +13,9 @@
   💬 Now:
    - I'm currently working with iOS development
    - Going through a multithreading hell
-   - 24/7: Crafting UI/UX, coding, and illustrating for my game project
+   - 24/7: Crafting UI/UX, coding, and illustrating for my game project       
 
-       
+<br><br>
   <a href="https://www.linkedin.com/in/luciana-adri%C3%A3o-87289a14b/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -29,10 +29,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -81,6 +81,9 @@
 </a>
 <a href="">
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&color=%23291b3e">
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/notion-9999FF.svg?style=for-the-badge&logo=notion&logoColor=white&color=%23291b3e">
 </a>
 
   </div>
