@@ -27,21 +27,23 @@
 </div>
 
 <!-- Analytics -->
-<h2 align="Left"> Analytics </h2>
-<p align=center>
-  <div>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=360 src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=360 src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br><br><br><br>
-</p>
+<h2 align=left> Analytics </h2>
+<table align=center>
+  <tr>
+    <td>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="abc" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<h2 align="Left"> Languages & Tools</h2>
+<h2 align=left> Languages & Tools</h2>
 <p align=center>
   <div align=left>
 
