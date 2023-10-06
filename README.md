@@ -16,6 +16,7 @@
    - 24/7: Crafting UI/UX, coding, and illustrating for my game project       
 
 <br><br>
+<!-- Links -->
   <a href="https://www.linkedin.com/in/luciana-adri%C3%A3o-87289a14b/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -25,9 +26,10 @@
 
 </div>
 
+<!-- Analytics -->
 <h2 align="Left"> Analytics </h2>
 <p align=center>
-  <div align=center>
+  <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
     </a>
@@ -94,32 +96,11 @@
 <!--
 
 
-
-
- & Tools
-
 Apps at apple Store:
 https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
 
 Behance, just in case:
 https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white
-
-Linkedin
-<a href="">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%23291b3e">
-  </a>
-  
-    <img src="https://skillicons.dev/icons?i=swift,c,python,arduino,vscode,git,github,matlab,postman,ps,ai,figma,ae&perline=4" alt="html" style="vertical-align:top; margin:4px">   
-
-## Analytics
-  <div>
-    <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=lvasantos&theme=jolly&hide_border=true">
-    <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=lvasantos&hide_title=true&rank_icon=github&show_icons=true&theme=jolly&hide_border=true"/>
-  </div>
-
-
-
-
 
 
 
