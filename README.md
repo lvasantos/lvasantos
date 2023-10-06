@@ -31,10 +31,10 @@
 <p align=center>
   <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
+      <img align="left" width=360 src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" alt="lvasantos" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
+      <img align="right" width=360 src="https://github-readme-stats.vercel.app/api?username=lvasantos&rank_icon=github&show_icons=true&theme=jolly&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
