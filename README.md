@@ -1,7 +1,7 @@
 # Well, hello there !
 
 <!-- 1 -->  
-  <img align="right" width="450px" alt="GIF" src="https://media.giphy.com/media/VbJeIn7jzpiTS9PczB/giphy.gif" />
+  <img align="right" width=400 alt="GIF" src="https://media.giphy.com/media/VbJeIn7jzpiTS9PczB/giphy.gif" />
 
   <p align="left" width="450px">
     <h3> Hi, I'm Luciana - a developer and UI/UX designer</h3>
@@ -20,7 +20,6 @@
 
 <!-- Analytics -->
 <h2 align=left> Analytics </h2>
-<br>
 <p>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width=400 align="center" src="https://streak-stats.demolab.com/?user=lvasantos&theme=jolly&hide_border=true" /></a>
