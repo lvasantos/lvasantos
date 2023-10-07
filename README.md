@@ -12,7 +12,8 @@
   
    - I'm currently working with iOS development
    - Going through a multithreading hell
-   - 24/7: Crafting UI/UX, coding, and illustrating for my game project     
+   - 24/7: Crafting UI/UX, coding, and illustrating for my game project
+          
   </p>  
 
 <br>
