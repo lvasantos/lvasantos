@@ -6,14 +6,16 @@
   <p align="left" width="450px">
     <h3> Hi, I'm Luciana - a developer and UI/UX designer</h3>
     <i>"I'm also occasionally an illustrator..."</i>
-    
+  <br><br>
+  
   💬 Now:
+  
    - I'm currently working with iOS development
    - Going through a multithreading hell
    - 24/7: Crafting UI/UX, coding, and illustrating for my game project     
   </p>  
 
-<br><br>
+<br>
 <!-- Links -->
   <a href="https://www.linkedin.com/in/luciana-adri%C3%A3o-87289a14b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.figma.com/@lucianaadriao"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=b300bc"></a>
