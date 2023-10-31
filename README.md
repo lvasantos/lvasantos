@@ -4,7 +4,7 @@
   <!-- ><img align="right" width=400 alt="GIF" src="https://media.giphy.com/media/VbJeIn7jzpiTS9PczB/giphy.gif" /> previous --> 
   <img align="right" width=500 alt="GIF" src="https://github.com/lvasantos/lvasantos/assets/82406248/f1d03dee-2ffb-4477-ab95-aa8193a5e95a">
   
-  <p align="left" width="450px">
+  <p align="left" width="450px" style="color: purple">
     <h3> Hi, I'm Luciana - a developer and UI/UX designer</h3>
     <i>"I'm also occasionally an illustrator..."</i>
   <br><br>
