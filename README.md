@@ -20,7 +20,7 @@
 <br>
 <!-- Links -->
   <a href="https://www.linkedin.com/in/luciana-adri%C3%A3o-87289a14b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.figma.com/@lucianaadriao"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=b300bc"></a>
+  <!-- <a href="https://www.figma.com/@lucianaadriao"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=b300bc"></a> -->
 
 <!-- Analytics -->
 <h2 align=left> Analytics </h2>
